@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm M.J. Mohammed Abrar</h1>
 
 <h3 align="center">
-Electrical & Computer Engineering Student | Embedded Systems Developer | AI/ML Enthusiast
+Electrical & Computer Engineering Student | Software & Systems Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Electrical+%26+Computer+Engineering+Student;Embedded+Systems+Developer;AI+%7C+Machine+Learning+Enthusiast;Flutter+%7C+Web+%7C+Software+Development;Building+Real-World+Projects;Always+Learning+%26+Building!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Electrical+%26+Computer+Engineering+Student;Software+%26+Application+Developer;AI+%7C+Machine+Learning+Enthusiast;Flutter+%7C+Web+%7C+Full+Stack+Development;Building+Real-World+Projects;Always+Learning+%26+Building!" />
 </p>
 
 ---
@@ -13,32 +13,32 @@ Electrical & Computer Engineering Student | Embedded Systems Developer | AI/ML E
 ## 👨‍💻 About Me
 
 * 🎓 I'm an **Electrical & Computer Engineering student** at the **Open University of Sri Lanka**.
-* 💻 Passionate about **software development, embedded systems, AI, and machine learning**.
-* 🔧 I enjoy combining **electronics, programming, and intelligent systems** to build practical solutions.
+* 💻 Passionate about **software development, AI, machine learning, and modern application development**.
 * 📱 I develop **Android and cross-platform applications using Flutter**.
 * 🌐 I build modern and responsive **websites and web applications**.
 * 🤖 Currently exploring **Artificial Intelligence and Machine Learning**.
-* ⚡ Interested in **Embedded Systems, IoT, Automation, EV Technology, and Automotive Engineering**.
-* 🚀 I enjoy turning ideas into real-world applications and useful digital products.
-* 📚 Always learning new technologies and improving my engineering and programming skills.
-* 🤝 Open to collaborating on interesting **software, AI, embedded systems, and engineering projects**.
+* 🛒 Interested in building **E-Commerce platforms and business management systems**.
+* 🔥 I enjoy turning ideas into real-world applications and useful digital products.
+* 📚 Always learning new technologies and improving my programming and engineering skills.
+* 🚀 Interested in building scalable, practical, and user-friendly software.
+* 🤝 Open to collaborating on interesting **software, AI, web, mobile, and engineering projects**.
 
 ---
 
 ## 🧠 Areas of Interest
 
-* 🔌 Embedded Systems
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
-* ⚡ Electrical & Computer Engineering
-* 🚗 Automotive & EV Technology
+* 💻 Software Development
 * 🌐 Web Development
 * 📱 Mobile App Development
-* 🏭 Automation & Control Systems
-* 🌐 Internet of Things (IoT)
+* 🛒 E-Commerce Development
 * ☁️ Cloud Technologies
 * 🗄️ Database Systems
-* 💡 Engineering Software Solutions
+* 🔥 Backend Development
+* 🎨 UI/UX Development
+* 📊 Data & Intelligent Applications
+* ⚡ Engineering Software Solutions
 
 ---
 
@@ -47,7 +47,7 @@ Electrical & Computer Engineering Student | Embedded Systems Developer | AI/ML E
 ### 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,sql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,sql,dart" />
 </p>
 
 ### 🌐 Web Development
@@ -84,9 +84,9 @@ Electrical & Computer Engineering Student | Embedded Systems Developer | AI/ML E
 
 # 🚀 Featured Projects
 
-## 📱 Nexly — Client Management Application
+## 📱 Nexly — Client Management & Productivity App
 
-A modern client management application designed to organize clients, meetings, tasks, notes, payments, and personal productivity.
+A modern client management and productivity application designed to help users manage clients, meetings, tasks, notes, payments, and personal finances in one place.
 
 **Tech Stack**
 
@@ -98,16 +98,20 @@ A modern client management application designed to organize clients, meetings, t
 * 📝 Notes and task management
 * 📅 Meetings and reminders
 * 💰 Payment tracking
-* 📊 Financial summaries
-* 🔐 Authentication and security
-* 🌙 Dark / Light theme
-* 📱 Responsive application design
+* 📊 Monthly financial summaries
+* 🔐 Firebase Authentication
+* ☁️ Cloud Firestore
+* 🌙 Dark / Light / System theme
+* 🔒 Secure application access
+* 📱 Responsive mobile UI
+
+##
 
 ---
 
 ## 🌊 MOBILE OCEAN — Mobile Shop Management System
 
-A complete management system designed for mobile phone shops to manage inventory, IMEI information, warranties, suppliers, purchases, and invoices.
+A complete management system designed for mobile phone shops to manage inventory, IMEI information, warranties, suppliers, purchases, customers, and invoices.
 
 **Tech Stack**
 
@@ -123,6 +127,30 @@ A complete management system designed for mobile phone shops to manage inventory
 * 📦 Used-phone purchase management
 * 🔎 Product filtering
 * 💾 MySQL database integration
+* 🧑‍💼 Customer information management
+
+---
+
+## 🛒 E-Commerce Website
+
+A modern responsive e-commerce platform designed for online product discovery and shopping.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `React` `Node.js`
+
+**Features**
+
+* 🛍️ Product browsing
+* 🔎 Product search
+* 🏷️ Product categories
+* 🛒 Shopping cart
+* ❤️ Wishlist functionality
+* 👤 User account system
+* 📦 Product details
+* 💳 Checkout-ready architecture
+* 📱 Responsive design
+* ⚡ Modern interactive UI
 
 ---
 
@@ -142,6 +170,7 @@ A premium responsive photography website designed for a modern photography studi
 * 🎉 Event packages
 * 👤 Portrait photography
 * 📱 WhatsApp enquiry integration
+* 🎥 Video-based content sections
 * 📱 Mobile / Tablet / Desktop responsive design
 * ✨ Modern interactive animations
 
@@ -158,6 +187,7 @@ A modern product-focused website designed for showcasing footwear products with 
 **Features**
 
 * 👟 Product showcase
+* 🖼️ Product imagery
 * ✨ Modern animations
 * 📱 Responsive design
 * 📞 Contact section
@@ -166,42 +196,37 @@ A modern product-focused website designed for showcasing footwear products with 
 
 ---
 
-# 🔬 Engineering Interests
+# 🔬 Engineering & Technology Interests
 
-I'm particularly interested in the intersection of **software and engineering**.
+As an **Electrical & Computer Engineering student**, I'm interested in combining engineering knowledge with modern software technologies.
 
-### ⚡ Electrical Engineering
+### ⚡ Engineering
 
+* Electrical Engineering
+* Computer Engineering
+* Engineering Mathematics
 * Electrical Systems
-* Circuit Analysis
 * Electronics
-* Control Systems
-* Power & Energy Systems
+* Engineering Software
 
-### 🤖 Intelligent Systems
+### 🤖 Artificial Intelligence
 
 * Artificial Intelligence
 * Machine Learning
 * Computer Vision
 * Data Processing
-* Intelligent Automation
+* Intelligent Applications
+* AI-powered Software
 
-### 🔌 Embedded Systems
+### 💻 Software Development
 
-* Microcontrollers
-* Embedded C/C++
-* Sensors & Actuators
-* IoT Systems
-* Real-Time Systems
-* Hardware–Software Integration
-
-### 🚗 Future Technologies
-
-* Electric Vehicles
-* Automotive Electronics
-* Vehicle Control Systems
-* Autonomous Systems
-* Automotive Embedded Systems
+* Full-Stack Development
+* Mobile Application Development
+* Web Application Development
+* Backend Development
+* Database Systems
+* Cloud Applications
+* API Development
 
 ---
 
@@ -210,7 +235,6 @@ I'm particularly interested in the intersection of **software and engineering**.
 * 🐍 Advanced Python
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
-* 🔌 Embedded Systems
 * 📱 Advanced Flutter Development
 * ⚛️ React & Modern Web Development
 * ☁️ Cloud Technologies
@@ -218,6 +242,7 @@ I'm particularly interested in the intersection of **software and engineering**.
 * 🔐 Application Security
 * 🏗️ Software Architecture
 * 🐳 Docker & DevOps
+* 📊 Data & AI Technologies
 
 ---
 
@@ -226,22 +251,24 @@ I'm particularly interested in the intersection of **software and engineering**.
 * 🚀 Building real-world software projects
 * 📱 Developing Flutter applications
 * 🌐 Building modern web applications
+* 🛒 Developing e-commerce solutions
 * 🤖 Exploring AI & Machine Learning
-* 🔌 Learning embedded systems development
-* 💡 Creating engineering-focused software solutions
+* 🔥 Building Firebase-powered applications
+* 💡 Creating business management systems
 * 📚 Improving programming and problem-solving skills
 
 ---
 
 # 🎯 My Goals
 
-* 🚀 Become a professional **Embedded Systems Engineer**
+* 🚀 Become a highly skilled **Software & AI Engineer**
 * 🤖 Build strong expertise in **AI & Machine Learning**
-* 🔌 Combine software development with electrical engineering
-* 🚗 Work on **automotive and EV technologies**
-* 🌐 Build production-ready software products
+* 💻 Become a strong **Full-Stack Developer**
+* 📱 Build high-quality mobile applications
+* 🌐 Develop scalable web applications
+* 🛒 Create professional e-commerce platforms
+* ☁️ Gain expertise in cloud technologies
 * 🌍 Contribute to open-source projects
-* 🧠 Continuously improve my engineering and programming knowledge
 * 💡 Build technology that solves real-world problems
 
 ---
@@ -295,11 +322,12 @@ Every project is an opportunity to learn something new, solve a problem, and imp
 I'm interested in contributing to projects related to:
 
 * 🤖 Artificial Intelligence
-* 🔌 Embedded Systems
+* 🧠 Machine Learning
 * 🌐 Web Development
 * 📱 Mobile Development
-* ⚡ Engineering Technology
-* 🧠 Machine Learning
+* 🛒 E-Commerce
+* ☁️ Cloud Technologies
+* 💻 Software Development
 * 🌍 Open Source Software
 
 ---
@@ -308,7 +336,7 @@ I'm interested in contributing to projects related to:
 
 <p align="center">
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:[your-email@example.com](mailto:your-email@example.com)">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
